@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/ronakshahmac/Dropbox/utd/uid and android john cole/BarrelRaceUID/app/src/androidTest/res" />
+        <source path="/Users/ronakshahmac/Dropbox/utd/uid and android john cole/BarrelRaceUID/app/build/generated/res/rs/test/debug" />
+        <source path="/Users/ronakshahmac/Dropbox/utd/uid and android john cole/BarrelRaceUID/app/build/generated/res/generated/test/debug" />
+    </dataSet>
+
+</merger>

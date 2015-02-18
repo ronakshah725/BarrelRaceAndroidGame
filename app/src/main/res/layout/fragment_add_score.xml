@@ -1,0 +1,44 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:windowSoftInputMode="stateVisible|adjustResize"
+    tools:context="com.example.swaroop.barrelraceuid.app.AddScore$PlaceholderFragment">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/scoreView"
+            android:layout_weight="0.25"
+            android:gravity="center|center_horizontal" />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="1"
+            android:layout_weight="1">
+
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:inputType="textPersonName"
+                android:ems="10"
+                android:id="@+id/firstName"
+                android:hint="Please Enter Your Name!!!!"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:layout_gravity="center" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+</FrameLayout>

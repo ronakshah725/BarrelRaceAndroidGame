@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/ronakshahmac/Dropbox/utd/uid and android john cole/BarrelRaceUID/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-77b9fc6071775ef7ccfe991b025bae7b556787d6.jar"
+        jar="/Users/ronakshahmac/Downloads/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/Users/ronakshahmac/Dropbox/utd/uid and android john cole/BarrelRaceUID/app/build/intermediates/pre-dexed/debug/classes-c5495a22dad23517a210217e4da6b19d25ef7a4c.jar"
+        jar="/Users/ronakshahmac/Dropbox/utd/uid and android john cole/BarrelRaceUID/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
+    <item
+        dex="/Users/ronakshahmac/Dropbox/utd/uid and android john cole/BarrelRaceUID/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-1b14f8d7ef8185d9add2150f22ea8c40c14904db.jar"
+        jar="/Users/ronakshahmac/Dropbox/utd/uid and android john cole/BarrelRaceUID/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/Users/ronakshahmac/Dropbox/utd/uid and android john cole/BarrelRaceUID/app/build/intermediates/pre-dexed/debug/classes-a984293073cf547d25e930913a6bcff20ad5622e.jar"
+        jar="/Users/ronakshahmac/Dropbox/utd/uid and android john cole/BarrelRaceUID/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+
+</pre-dex-items>

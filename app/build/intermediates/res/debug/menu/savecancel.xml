@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!-- Search, should appear as action button -->
+    <item
+        android:orderInCategory="0"
+        android:id="@+id/action_save"
+        android:title="Save"
+        app:showAsAction="always" />
+    <item
+        android:orderInCategory="0"
+        android:id="@+id/action_cancel"
+        android:title="Cancel"
+        app:showAsAction="always" />
+
+</menu><!-- From: file:/Users/ronakshahmac/Dropbox/utd/uid%20and%20android%20john%20cole/BarrelRaceUID/app/src/main/res/menu/savecancel.xml -->

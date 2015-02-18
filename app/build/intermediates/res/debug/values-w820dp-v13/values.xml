@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/ronakshahmac/Dropbox/utd/uid%20and%20android%20john%20cole/BarrelRaceUID/app/src/main/res/values-w820dp/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+
+</resources>
